@@ -1,1 +1,8 @@
-console.log('Welcome to main.js');
+let Hello = (name)=>{
+  console.log(`Hello ${name}, welcome to main.js`)
+};
+Hello('Coder');
+
+
+
+
